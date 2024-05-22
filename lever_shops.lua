@@ -1,5 +1,5 @@
 -- Version 1.0
--- Script made by Joriku, or Joelslamospersson at github.
+-- Simple all-in-one configuration store
 local thaisdiamond = Action()
 
 function thaisdiamond.onUse(player, item, fromPosition, target, toPosition, isHotkey)
